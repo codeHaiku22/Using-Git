@@ -83,7 +83,7 @@ The next time an issue is to be created within the repository, a new interface w
 
 The template allows for the standarized input of information as designed.
 
-![Issue Template](\images/issue_template.png)
+![Issue Template](/images/issue_template.png)
 
 ## Projects
 Projects offer a containerized approach to manage development and issue tracking throughout a repository. Project boards also help with the organizationa and prioritization of outstanding work. They are a visual method in comprehending and communicating the status of all issues, tasks, requests, development within a project. 
