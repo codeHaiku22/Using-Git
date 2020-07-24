@@ -49,6 +49,42 @@ Issues which have been created can always be commented upon and edited as needed
 
 ![Existing Issue](/images/existing_issue.png)
 
+### Configuring Issue Templates (Optional)
+An issue template provides a standardized format for contributors to create and track issues within a repository.
+
+#### Creating Issue Templates
+Clicking the "Settings" section of the repository begins the launches the Settings screen which is used to creat issue templates.
+
+![Repo Settings](/images/repo_settings.png)
+
+Scrolling down in the Settings page leads to the "Features" section. Within the "Features" section, clicking the "Set up template" button launches the template screen.
+
+![Setup Template](/images/setup_templates.png)
+
+Clicking the "Preview and edit" button displays the actual layout of the template and also allows for changes to be made.
+
+![Preview Template](/images/preview_template.png)
+
+To proceed with editing, the pencil icon can be clicked.
+
+![Edit Template](/images/edit_template.png)
+
+Once editing is complete, clicking the "Propose changes" button launches a commit changes set of controls.
+
+![Propose Changes](/images/propose_changes.png)
+
+A commit message and extended commit message should be provided prior to clicking the "Commit changes" button which will finalize and save the template.
+
+![Commit Changes](/images/commit_changes.png)
+
+The next time an issue is to be created within the repository, a new interface will appear which will launch the newly created template. Clicking the "Get started" button launches the tempate.
+
+![Get Started](/images/get_started.png)
+
+The template allows for the standarized input of information as designed.
+
+![Issue Template](\images/issue_template.png)
+
 ## Projects
 Projects offer a containerized approach to manage development and issue tracking throughout a repository. Project boards also help with the organizationa and prioritization of outstanding work. They are a visual method in comprehending and communicating the status of all issues, tasks, requests, development within a project. 
 
@@ -56,6 +92,10 @@ Projects offer a containerized approach to manage development and issue tracking
 Projects can be added within the desired repository by navigating to the "Projects" section of the repository and clicking the "Create a Project" button.
 
 ![Add Project](/images/add_project.png)
+
+The "Add template" drop-down control can be used to select a template.
+
+![Add Template](/images/add_template_select.png)
 
 ### Creating a New Project
 At minimum, an project should have a Project board name and a description.  To save additional steps in the future, a Project template can also be added to configure the layout and behavior of the project board. The "Submit new issue" button saves and submits the issue.
